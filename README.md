@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.5-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A scalable e-commerce platform built with Spring Boot microservices architecture, featuring user registration, authentication, and payment processing.
 
@@ -93,7 +92,7 @@ A scalable e-commerce platform built with Spring Boot microservices architecture
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<path>/ecommerce-microservices.git
+   git clone https://github.com/CarlosDDCmx/microservicesJAVAdm.git
    ```
 
 2. **Build the project**
@@ -246,7 +245,3 @@ curl -X POST http://localhost:8081/api/payments \
 ---
 
 **Note**: Replace placeholder values (JWT secret, OAuth2 client IDs) with actual credentials in production environments.
-
-## License 
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
